@@ -1,5 +1,14 @@
 [
-  "CustomStartScreenByDarkP1xel.ASI",
-  "CustomBebraByBebran.ASI",
-  "InfiniteSprint.ASI"
+	{
+		"Name": "Custom Start Screen",
+		"Url": "https://www.blast.hk/threads/21224/"
+	},
+	{
+		"Name": "Reconnect Fix",
+		"Url": "https://www.blast.hk/threads/66886/"
+	},
+	{
+		"Name": "Interior Reflection Fix",
+		"Url": "https://www.blast.hk/threads/72659/"
+	}
 ]
